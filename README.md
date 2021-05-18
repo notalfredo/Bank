@@ -3,4 +3,4 @@ A bank that was build using JAVA. The bank contains checking accounts in which t
 
 
 
-Feel free to use the code that I put here. If you are a student please do not use this code to cheat. If you use part of the code please give credit so that the professor knows. Please do not use the code presented here to any malicious internet (Have no clue how you would do it but please don't)
+Feel free to use the code that I put here. If you are a student please do not use this code to cheat. If you use part of the code please give credit so that the professor knows. Please do not use the code presented here to any malicious intent (Have no clue how you would do it but please don't)
